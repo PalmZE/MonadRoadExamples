@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["esnext", "dom"],
+    "strict": true,
+    "isolatedModules": true
+  }
+}
